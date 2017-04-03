@@ -1,1 +1,1 @@
-# streaming_with_random_number
+#Spark streaming with random numbers
